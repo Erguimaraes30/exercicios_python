@@ -11,7 +11,8 @@ Raiz_2 = (-b - math.sqrt(delta)) / (2 * a)
 print("Raiz 1:", Raiz_1)
 print("Raiz 2:", Raiz_2)
 
-
+---------------------------------
+---------------------------------
 
 
 ano = int(input("Digite um ano: "))
